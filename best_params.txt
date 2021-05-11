@@ -1,4 +1,0 @@
-Confusion matrix: [[131607    190]  [  9000   1512]]
-Unsatisfactory
-
-
