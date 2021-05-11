@@ -5,7 +5,11 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 The following projects covers the city of Chicago and its combat against unpaid fines. 
 
-Process: 
+### Results file: 
+
+Chicago Fine Payment Predict.ipynb
+
+### Process: 
 
 1. Data filtration, remove all the nan variables from the csv file and ensuring data is clean. 
 
